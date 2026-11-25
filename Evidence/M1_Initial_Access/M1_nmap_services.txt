@@ -1,0 +1,27 @@
+# Nmap 7.99 scan initiated Tue Nov 24 02:10:53 2026 as: /usr/lib/nmap/nmap --privileged -sV -Pn -oN M1_nmap_services.txt medirozahospital.com
+Nmap scan report for medirozahospital.com (199.188.201.16)
+Host is up (0.38s latency).
+rDNS record for 199.188.201.16: server274-1.web-hosting.com
+Not shown: 988 filtered tcp ports (no-response)
+PORT    STATE SERVICE        VERSION
+21/tcp  open  ftp            Pure-FTPd
+25/tcp  open  smtp?
+26/tcp  open  smtp           Exim smtpd 4.100.1
+53/tcp  open  domain         (unknown banner: BIND)
+80/tcp  open  http-proxy     HAProxy http proxy 2.0.0 or later
+110/tcp open  pop3           Dovecot pop3d
+143/tcp open  imap           Dovecot imapd
+443/tcp open  ssl/http-proxy HAProxy http proxy 2.0.0 or later
+465/tcp open  ssl/smtp       Exim smtpd 4.100.1
+587/tcp open  smtp           Exim smtpd 4.100.1
+993/tcp open  ssl/imap       Dovecot imapd
+995/tcp open  ssl/pop3       Dovecot pop3d
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port53-TCP:V=7.99%I=7%D=11/24%Time=6B0538BC%P=x86_64-pc-linux-gnu%r(DNS
+SF:VersionBindReqTCP,3F,"\0=\0\x06\x85\0\0\x01\0\x01\0\x01\0\0\x07version\
+SF:x04bind\0\0\x10\0\x03\xc0\x0c\0\x10\0\x03\0\0\0\0\0\x05\x04BIND\xc0\x0c
+SF:\0\x02\0\x03\0\0\0\0\0\x02\xc0\x0c");
+Service Info: Host: server274.web-hosting.com; Device: load balancer
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue Nov 24 02:14:46 2026 -- 1 IP address (1 host up) scanned in 233.41 seconds

@@ -1,0 +1,80 @@
+WhatWeb report for [1m[34mhttps://medirozahospital.com[0m
+Status    : 200 OK
+Title     : [1m[33mMediroza General Hospital | Compassionate Care, Advanced Medicine[0m
+IP        : 199.188.201.16
+Country   : [1m[31mUNITED STATES, US[0m
+
+Summary   : [1mEmail[0m[[0m[22minfo@medirozahospital.com[0m], [1mHTML5[0m, [1mHTTPServer[0m[[1m[36mLiteSpeed[0m], [1mLiteSpeed[0m, [1mMeta-Author[0m[[0m[22mMediroza IT Department[0m], [1mMetaGenerator[0m[[0m[22mMediroza CMS 1.4.2[0m], [1mPoweredBy[0m[[0m[22mMediroza[0m], [1mUncommonHeaders[0m[[0m[22mx-turbo-charged-by[0m]
+
+Detected Plugins:
+[ [1mEmail[0m ]
+	Extract email addresses. Find valid email address and 
+	syntactically invalid email addresses from mailto: link 
+	tags. We match syntactically invalid links containing 
+	mailto: to catch anti-spam email addresses, eg. bob at 
+	gmail.com. This uses the simplified email regular 
+	expression from 
+	http://www.regular-expressions.info/email.html for valid 
+	email address matching. 
+
+	String       : [1m[36minfo@medirozahospital.com[0m
+
+[ [1mHTML5[0m ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ [1mHTTPServer[0m ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	String       : [1m[36mLiteSpeed[0m (from server string)
+
+[ [1mLiteSpeed[0m ]
+	LiteSpeed web server, which is able to read Apache 
+	configuration directly and used together with web hosting 
+	control panels by replacing Apache 
+
+
+[ [1mMeta-Author[0m ]
+	This plugin retrieves the author name from the meta name 
+	tag - info: 
+	http://www.webmarketingnow.com/tips/meta-tags-uncovered.html
+	#author
+
+	String       : [1m[36mMediroza IT Department[0m
+
+[ [1mMetaGenerator[0m ]
+	This plugin identifies meta generator tags and extracts its 
+	value. 
+
+	String       : [1m[36mMediroza CMS 1.4.2[0m
+
+[ [1mPoweredBy[0m ]
+	This plugin identifies instances of 'Powered by x' text and 
+	attempts to extract the value for x. 
+
+	String       : [1m[36mMediroza[0m
+
+[ [1mUncommonHeaders[0m ]
+	Uncommon HTTP server headers. The blacklist includes all 
+	the standard headers and many non standard but common ones. 
+	Interesting but fairly common headers should have their own 
+	plugins, eg. x-powered-by, server and x-aspnet-version. 
+	Info about headers can be found at www.http-stats.com 
+
+	String       : [1m[36mx-turbo-charged-by[0m (from headers)
+
+HTTP Headers:
+	HTTP/1.1 200 OK
+	keep-alive: timeout=5, max=100
+	content-type: text/html
+	last-modified: Fri, 04 Sep 2026 02:03:12 GMT
+	accept-ranges: bytes
+	content-encoding: gzip
+	vary: Accept-Encoding
+	content-length: 2011
+	date: Tue, 24 Nov 2026 06:16:06 GMT
+	server: LiteSpeed
+	x-turbo-charged-by: LiteSpeed
+	connection: close
+	
