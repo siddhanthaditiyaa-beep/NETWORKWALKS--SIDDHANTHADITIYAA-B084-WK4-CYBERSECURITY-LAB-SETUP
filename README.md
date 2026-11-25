@@ -25,7 +25,7 @@
 <thead>
 <tr class="header">
 <th><strong>Pentester Name<br />(Cybersecurity Student)</strong></th>
-<th><strong>Sneha Hariprasad Pillai</strong></th>
+<th><strong>Siddhanthaditiyaa Ajit Vettakal</strong></th>
 </tr>
 <tr class="odd">
 <th><strong>Program/Batch</strong></th>
@@ -364,10 +364,10 @@ I performed this engagement strictly against the target assigned and authorised 
 
 ## 👤 Author
 
-**Sneha Hariprasad Pillai** — B084
+**Siddhanthaditiyaa Ajit Vettakal** — B084
 Cybersecurity Student, NetworkWalks
 
-LinkedIn: [https://www.linkedin.com/in/sneha-pillai-16994342a/](https://www.linkedin.com/in/sneha-pillai-16994342a/)
+LinkedIn: [www.linkedin.com/in/siddhanthaditiyaa-vettakal](www.linkedin.com/in/siddhanthaditiyaa-vettakal)
 
 ---
 
